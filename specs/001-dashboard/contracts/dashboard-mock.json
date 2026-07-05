@@ -1,0 +1,36 @@
+{
+  "financial_summary": {
+    "sales_today": 125350.00,
+    "purchases_today": 45000.00,
+    "expenses_today": 12400.00
+  },
+  "alerts": [
+    {
+      "id": "e5bfa780-36a5-48b4-8457-4148b598d9ba",
+      "type": "low_stock",
+      "count": 5,
+      "message": "أدوية شارف مخزونها على النفاد"
+    },
+    {
+      "id": "f89d3ea4-5b48-4390-bf38-782a472cba89",
+      "type": "expiring_soon",
+      "count": 2,
+      "message": "أدوية قريبة من تاريخ الانتهاء"
+    }
+  ],
+  "sales_trend": [
+    { "date": "2026-06-29", "day_name": "الإثنين", "amount": 85000 },
+    { "date": "2026-06-30", "day_name": "الثلاثاء", "amount": 92000 },
+    { "date": "2026-07-01", "day_name": "الأربعاء", "amount": 78000 },
+    { "date": "2026-07-02", "day_name": "الخميس", "amount": 105000 },
+    { "date": "2026-07-03", "day_name": "الجمعة", "amount": 40000 },
+    { "date": "2026-07-04", "day_name": "السبت", "amount": 95000 },
+    { "date": "2026-07-05", "day_name": "الأحد", "amount": 125350 }
+  ],
+  "category_distribution": [
+    { "category": "مضادات حيوية", "amount": 45000, "percentage": 36 },
+    { "category": "مسكنات", "amount": 25000, "percentage": 20 },
+    { "category": "أمراض مزمنة", "amount": 35000, "percentage": 28 },
+    { "category": "أخرى", "amount": 20350, "percentage": 16 }
+  ]
+}

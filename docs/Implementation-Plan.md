@@ -85,9 +85,9 @@ Connect to Supabase
 
 - [x] `docs/Constitution.md` — Project constitution (v1.1.0 ratified)
 - [x] `docs/Implementation-Plan.md` — This file
-- [ ] `docs/PRD.md` — Product Requirements Document
-- [ ] `docs/Database.md` — PostgreSQL schema, tables, indexes, ERD
-- [ ] `docs/API.md` — API contract (tables, queries, mutations, responses, validation)
+- [x] `docs/PRD.md` — Product Requirements Document (Done)
+- [x] `docs/Database.md` — PostgreSQL schema, tables, indexes, ERD (Done)
+- [x] `docs/API.md` — API contract (Done)
 
 ---
 
